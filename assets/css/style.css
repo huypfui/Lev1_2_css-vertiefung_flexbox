@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana,Arial,sans-serif;
+}
+
+body {
+    background-image: url(../img/Basketball-sun.jpg);
+    width: 100vh;
+    height: 100vh;
+}
+
+header {
+    background: rgba(255, 255, 255, 0.1);
+    color: White;
+    width: 100vw;
+    height: 8vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    padding: 2vh 3vw;
+}
+
+nav a{
+    text-decoration: none;
+    color: white;
+    margin-left: 10px;
+}
